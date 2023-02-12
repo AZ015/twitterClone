@@ -1,0 +1,7 @@
+skip_validation: true
+
+models:
+  Tweet:
+    fields:
+      user:
+        resolver: true
